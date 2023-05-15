@@ -1,6 +1,8 @@
-# Bookclub
-
-## Codecademy Challenge Project: Responsive Club Website
+<div align="center">
+  <h1>📕 Bookclub</h1>
+  <strong>Codecademy Challenge Project: Responsive Club Website</strong><br>
+</div>
+<br>
 
 ## Table of contents
 
